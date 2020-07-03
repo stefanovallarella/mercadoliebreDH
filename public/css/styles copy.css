@@ -1,0 +1,62 @@
+
+body{
+
+background-color: #ebebeb;
+
+}
+
+.blanco{
+
+  background-color: white;
+
+}
+
+
+#amarillo{
+
+background-color: #EAC926;
+
+}
+
+#gris{
+
+    background-color:#ebebeb;
+}
+
+.negrita{
+
+background-color: white;
+font-weight: bold;
+
+}
+
+.descuento{
+
+color:#39b54a;
+
+}
+
+p{
+
+    background-color: white;
+
+}
+
+h3{
+    background-color: white;
+    color:#666;
+}
+
+ul li{
+
+text-decoration: none;
+font-weight: bold;
+
+}
+
+.fuente {
+
+    font-family: Roboto;
+}
+
+

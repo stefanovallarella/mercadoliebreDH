@@ -1,0 +1,105 @@
+body {
+    background-color: #ebebeb ;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+/* COLORES DE LETRA Y FONDO */
+
+#celeste{
+
+color: #1259c3;
+
+}
+
+#verde{
+
+    color:#39b54a;
+
+}
+
+#grisOscuro {
+
+    color:#666;
+
+}
+
+#grisClaro{
+
+background-color: #ebebeb;
+
+}
+
+#amarillo { 
+
+background-color: #EAC926;
+
+}
+
+#blanco {
+
+background-color: white;
+
+}
+
+/* NEGRITA Y RETOQUES de TIPOGRAFIA*/
+
+.bold {
+
+font-weight: bold;
+
+}
+
+ul{
+list-style: none;
+}
+
+ul li a{
+font-weight: bold;
+color: black;    
+text-decoration: none;
+}
+
+
+h3{
+    color:#666;
+    background-color: white;
+}
+
+p{
+    font-size: 12px;
+}
+
+p.gris{
+    
+    color:#666;
+    background-color: white;
+
+}   
+
+p.negro{
+    color: black;
+    font-weight: bold;
+}   
+
+
+    
+.tamañoParrafo{
+
+font-size: 12px;
+
+}
+
+.tamañoTitulares{
+font-size: 24px;
+}
+
+.tamañoPrecios{
+font-size: 18px;
+font-weight: bold;
+}
+
+
+.tamañoDD{
+font-size: 16px;
+}
